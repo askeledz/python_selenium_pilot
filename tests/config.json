@@ -1,0 +1,7 @@
+{
+  "browser": "chrome",
+  "wait_time": 30,
+  "username": "selenium-user",
+  "password": "qwerty123",
+  "url" : "http://test.com:8002"
+}
